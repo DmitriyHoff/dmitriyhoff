@@ -1,4 +1,4 @@
-[![](https://www.codewars.com/users/DmitriyHoff/badges/small)](https://www.codewars.com/users/DmitriyHoff)
+[![](https://www.codewars.com/users/DmitriyHoff/badges/large)](https://www.codewars.com/users/DmitriyHoff)
 ---
 # 💻Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
