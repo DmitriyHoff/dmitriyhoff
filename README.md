@@ -7,9 +7,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=DmitriyHoff&theme=swift&hide_border=true&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=DmitriyHoff&theme=swift&hide_border=true)<br/>
----
+## 📊GitHub Stats
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyHoff&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ---
 [![](https://visitcount.itsvg.in/api?id=DmitriyHoff&icon=1&color=12)](https://visitcount.itsvg.in) [![](https://www.codewars.com/users/DmitriyHoff/badges/small?theme=light)](https://www.codewars.com/users/DmitriyHoff)
